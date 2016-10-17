@@ -8,4 +8,6 @@ open the command prompt
 
 view the video in the browser 
 http://localhost:3000/movie
+
+Test if the Node.JS app is running
 http://localhost:3000/test
